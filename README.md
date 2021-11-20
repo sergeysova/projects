@@ -48,6 +48,7 @@ List of projects I am involved in.
 - [telegram-typings](https://github.com/sergeysova/telegram-typings) - typings generator
 - [emitting](https://github.com/sergeysova/emitting) - event emitter with support of Promises
 - [docker-publish-action](https://github.com/sergeysova/docker-publish-action) - publish docker image with incremental tags and timestamp
+- [redux-symbiote](https://github.com/sergeysova/redux-symbiote) - create reducers and actions without tears, a blueprint for redux-toolkit
 
 ---
 
