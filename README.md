@@ -53,27 +53,27 @@ List of projects I am involved in.
 
 ### Socials
 
-- Twitter RU — https://twitter.com/_sergeysova
-- Twitter EN — https://twitter.com/sova_writes
-- VK Group — https://vk.com/sovadev
-- Instagram — https://instagram.com/_sergeysova
-- Dev.to — https://dev.to/sergeysova
+- Twitter RU — [twitter.com/_sergeysova](https://twitter.com/_sergeysova)
+- Twitter EN — [twitter.com/sova_writes](https://twitter.com/sova_writes)
+- VK Group — [vk.com/sovadev](https://vk.com/sovadev)
+- Instagram — [instagram.com/_sergeysova](https://instagram.com/_sergeysova)
+- Dev.to — [dev.to/sergeysova](https://dev.to/sergeysova)
 
 ## Public
-- Telegram Channel — https://t.me/sergeysova
-- Newsletter — https://news.sova.dev
-- Polywork events history — https://www.sergeysova.com
-- Stale podcast — https://podcast.sova.dev
-- Active podcast — https://podcast.ru/1553479345
-- Youtube — https://youtube.com/sergeysova
+- Telegram Channel — [t.me/sergeysova](https://t.me/sergeysova)
+- Newsletter — [news.sova.dev](https://news.sova.dev)
+- Polywork events history — [www.sergeysova.com](https://www.sergeysova.com)
+- Stale podcast — [podcast.sova.dev](https://podcast.sova.dev)
+- Active podcast — [podcast.ru/1553479345](https://podcast.ru/1553479345)
+- Youtube — [youtube.com/sergeysova](https://youtube.com/sergeysova)
 
 ## Talks
-- State Management Talks — https://www.alltalks.dev/talk/state-management-talks
-- SECon Intellectual show about the frontend — https://www.alltalks.dev/talk/intellektualnoe-shou-pro-frontend
-- 5min react effector — https://5minreact.ru/posts/063-effector
-- SPb Podcast design systems — https://spb-frontend.ru/podcast/11
-- Argumentarium reatom, redux, effector — https://youtube.com/watch?v=Ble1JXIb_hE
-- Frontend Crew #2 CSS-in-JS — https://podlodka.io/crew-records
-- Argumentarium React hooks — https://soundcloud.com/csssr/argumentarium-khuki-deklarativnost-i-klassy
-- Effector SPb Meetup 1 — https://youtube.com/watch?v=IacUIo9fXhI
-- Effector SPb Meetup 2 — https://youtube.com/watch?v=nLYc4PaTXYk
+- State Management Talks — [alltalks.dev/talk/state-management-talks](https://www.alltalks.dev/talk/state-management-talks)
+- SECon Intellectual show about the frontend — [alltalks.dev/talk/intellektualnoe-shou-pro-frontend](https://www.alltalks.dev/talk/intellektualnoe-shou-pro-frontend)
+- 5min react effector — [5minreact.ru/posts/063-effector](https://5minreact.ru/posts/063-effector)
+- SPb Podcast design systems — [spb-frontend.ru/podcast/11](https://spb-frontend.ru/podcast/11)
+- Argumentarium reatom, redux, effector — [youtube.com/watch?v=Ble1JXIb_hE](https://youtube.com/watch?v=Ble1JXIb_hE)
+- Frontend Crew #2 CSS-in-JS — [podlodka.io/crew-records](https://podlodka.io/crew-records)
+- Argumentarium React hooks — [soundcloud.com/csssr/argumentarium-khuki-deklarativnost-i-klassy](https://soundcloud.com/csssr/argumentarium-khuki-deklarativnost-i-klassy)
+- Effector SPb Meetup 1 — [youtube.com/watch?v=IacUIo9fXhI](https://youtube.com/watch?v=IacUIo9fXhI)
+- Effector SPb Meetup 2 — [youtube.com/watch?v=nLYc4PaTXYk](https://youtube.com/watch?v=nLYc4PaTXYk)
