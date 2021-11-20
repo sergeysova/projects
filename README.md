@@ -76,5 +76,6 @@ List of projects I am involved in.
 - Argumentarium reatom, redux, effector — [youtube.com/watch?v=Ble1JXIb_hE](https://youtube.com/watch?v=Ble1JXIb_hE)
 - Frontend Crew #2 CSS-in-JS — [podlodka.io/crew-records](https://podlodka.io/crew-records)
 - Argumentarium React hooks — [soundcloud.com/csssr/argumentarium-khuki-deklarativnost-i-klassy](https://soundcloud.com/csssr/argumentarium-khuki-deklarativnost-i-klassy)
+- ZN Prod Rust rhymes and functional — [soundcloud.com/znprod/010-rust-i-rifmy-pochemu-funktsionalnoe-vazhno-kogda-indeksy-reshayut-go-i-realnyy-mir](https://soundcloud.com/znprod/010-rust-i-rifmy-pochemu-funktsionalnoe-vazhno-kogda-indeksy-reshayut-go-i-realnyy-mir)
 - Effector SPb Meetup 1 — [youtube.com/watch?v=IacUIo9fXhI](https://youtube.com/watch?v=IacUIo9fXhI)
 - Effector SPb Meetup 2 — [youtube.com/watch?v=nLYc4PaTXYk](https://youtube.com/watch?v=nLYc4PaTXYk)
