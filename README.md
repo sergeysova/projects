@@ -51,7 +51,7 @@ List of projects I am involved in.
 
 ---
 
-### Socials
+## Socials
 
 - Twitter RU — [twitter.com/_sergeysova](https://twitter.com/_sergeysova)
 - Twitter EN — [twitter.com/sova_writes](https://twitter.com/sova_writes)
