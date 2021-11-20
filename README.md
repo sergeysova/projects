@@ -79,3 +79,4 @@ List of projects I am involved in.
 - ZN Prod Rust rhymes and functional — [soundcloud.com/znprod/010-rust-i-rifmy-pochemu-funktsionalnoe-vazhno-kogda-indeksy-reshayut-go-i-realnyy-mir](https://soundcloud.com/znprod/010-rust-i-rifmy-pochemu-funktsionalnoe-vazhno-kogda-indeksy-reshayut-go-i-realnyy-mir)
 - Effector SPb Meetup 1 — [youtube.com/watch?v=IacUIo9fXhI](https://youtube.com/watch?v=IacUIo9fXhI)
 - Effector SPb Meetup 2 — [youtube.com/watch?v=nLYc4PaTXYk](https://youtube.com/watch?v=nLYc4PaTXYk)
+- Hexlet React Effector Perspectives — [ru.hexlet.io/blog/posts/biblioteka-react-review-article](https://ru.hexlet.io/blog/posts/biblioteka-react-review-article)
