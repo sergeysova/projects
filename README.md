@@ -80,3 +80,4 @@ List of projects I am involved in.
 - Effector SPb Meetup 1 — [youtube.com/watch?v=IacUIo9fXhI](https://youtube.com/watch?v=IacUIo9fXhI)
 - Effector SPb Meetup 2 — [youtube.com/watch?v=nLYc4PaTXYk](https://youtube.com/watch?v=nLYc4PaTXYk)
 - Hexlet React Effector Perspectives — [ru.hexlet.io/blog/posts/biblioteka-react-review-article](https://ru.hexlet.io/blog/posts/biblioteka-react-review-article)
+- 307 packages devrel, personal brand, community — [youtube.com/watch?v=QtsH31LD79c](https://www.youtube.com/watch?v=QtsH31LD79c)
