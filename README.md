@@ -1,4 +1,4 @@
-# projects
+# [Sergey Sova](https://sova.dev) / Projects
 
 List of projects I am involved in.
 
