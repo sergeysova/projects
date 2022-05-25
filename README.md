@@ -83,3 +83,4 @@ List of projects I am involved in.
 - 307 packages devrel, personal brand, community — [youtube.com/watch?v=QtsH31LD79c](https://www.youtube.com/watch?v=QtsH31LD79c)
 - Frontend YouKnow.st about effector,
 Opensource — [youtube.com/watch?v=3QyrM02MLT4](https://www.youtube.com/watch?v=3QyrM02MLT4)
+— Travel&tourism show about IT from space307 — [youtube.com/watch?v=s6atItVtGxE](https://www.youtube.com/watch?v=s6atItVtGxE)
