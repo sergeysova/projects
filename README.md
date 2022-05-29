@@ -10,6 +10,7 @@ List of projects I am involved in.
 
 ## Effector
 
+- [Community](https://community.effector.dev) — The place where all developers can grow
 - [Patronum](https://github.com/effector/patronum) - Operators library
 - [Logger](https://github.com/effector/logger) - Data flow logger
 - [Inspector](https://github.com/effector/inspector) - UI for easily debugging effector app
