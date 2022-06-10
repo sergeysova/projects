@@ -6,7 +6,6 @@ List of projects I am involved in.
 
 - [Accesso](https://github.com/accesso-app) — Authorization OAuth2.0 provider
 - [Cardbox](https://github.com/cardbox) - Open knowledge system for programmers
-- [Woly](https://github.com/woly-ui) - Modular design-system to build flexible UI Kits
 
 ## Effector
 
@@ -46,6 +45,7 @@ List of projects I am involved in.
 
 ## stale projects
 
+- [Woly](https://github.com/woly-ui) - Modular design-system to build flexible UI Kits
 - [styled-normalize](https://github.com/sergeysova/styled-normalize) - normalize.css but styled-components
 - [telegram-typings](https://github.com/sergeysova/telegram-typings) - typings generator
 - [emitting](https://github.com/sergeysova/emitting) - event emitter with support of Promises
