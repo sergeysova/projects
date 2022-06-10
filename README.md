@@ -86,3 +86,4 @@ List of projects I am involved in.
 - Frontend YouKnow.st about effector,
 Opensource — [youtube.com/watch?v=3QyrM02MLT4](https://www.youtube.com/watch?v=3QyrM02MLT4)
 - Travel&tourism show about IT from space307 — [youtube.com/watch?v=s6atItVtGxE](https://www.youtube.com/watch?v=s6atItVtGxE)
+- Heavy morning at HolyJS about an architecture and an architect at all - [live.jugru.org/video?v=MTAwMTI0ijIwMDAwMTAwijA](https://live.jugru.org/video?v=MTAwMTI0ijIwMDAwMTAwijA)
