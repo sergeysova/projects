@@ -31,6 +31,7 @@ List of projects I am involved in.
 - [this_week_in_rust](https://github.com/sergeysova/this_week_in_rust.rs) - Repost posts from https://this-week-in-rust.org to Telegram https://t.me/this_week_in_rust
 - [gist-write-action](https://github.com/sergeysova/gist-write-action) - Github Action allows to easily write Gist
 - [gist-read-action](https://github.com/sergeysova/gist-read-action) - Github Action allows to easily read from Gist
+- [jq-action](https://github.com/sergeysova/jq-action) - Github Action to read and modify json
 
 ## Samples
 
