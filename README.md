@@ -87,3 +87,4 @@ List of projects I am involved in.
 Opensource — [youtube.com/watch?v=3QyrM02MLT4](https://www.youtube.com/watch?v=3QyrM02MLT4)
 - Travel&tourism show about IT from space307 — [youtube.com/watch?v=s6atItVtGxE](https://www.youtube.com/watch?v=s6atItVtGxE)
 - Heavy morning at HolyJS about an architecture and an architect at all — [live.jugru.org/video?v=MTAwMTI0ijIwMDAwMTAwijA](https://live.jugru.org/video?v=MTAwMTI0ijIwMDAwMTAwijA)
+- Podlodka Podcast about frontend architecture — [podlodka.io/286](https://podlodka.io/286)
