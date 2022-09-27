@@ -73,7 +73,7 @@ List of projects I am involved in.
 ## Talks
 - State Management Talks — [alltalks.dev/talk/state-management-talks](https://www.alltalks.dev/talk/state-management-talks)
 - SECon Intellectual show about the frontend — [alltalks.dev/talk/intellektualnoe-shou-pro-frontend](https://www.alltalks.dev/talk/intellektualnoe-shou-pro-frontend)
-- 5min react effector — [5minreact.ru/posts/063-effector](https://5minreact.ru/posts/063-effector)
+- 5min react effector — [soundcloud.com/5minreact/063-effector](https://soundcloud.com/5minreact/063-effector)
 - SPb Podcast design systems — [spb-frontend.ru/podcast/11](https://spb-frontend.ru/podcast/11)
 - Argumentarium reatom, redux, effector — [youtube.com/watch?v=Ble1JXIb_hE](https://youtube.com/watch?v=Ble1JXIb_hE)
 - Frontend Crew #2 CSS-in-JS — [podlodka.io/crew-records](https://podlodka.io/crew-records)
