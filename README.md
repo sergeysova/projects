@@ -68,7 +68,7 @@ List of projects I am involved in.
 - Polywork events history — [www.sergeysova.com](https://www.sergeysova.com)
 - Stale podcast — [podcast.sova.dev](https://podcast.sova.dev)
 - Active podcast — [podcast.ru/1553479345](https://podcast.ru/1553479345)
-- Youtube — [youtube.com/sergeysova](https://youtube.com/sergeysova)
+- Youtube — [youtube.com/@sova](https://youtube.com/@sova)
 
 ## Talks
 - State Management Talks — [alltalks.dev/talk/state-management-talks](https://www.alltalks.dev/talk/state-management-talks)
